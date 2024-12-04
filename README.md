@@ -1,4 +1,4 @@
-Aim of this repo is to transform premade soltutions to Alteryx Weekly Challenges to SQL Code. I aimed to transform the flow exactly in SQL and also return the correct solution.
+Aim of this repo is to translate premade soltutions to Alteryx Weekly Challenges to SQL Code. I aimed to transform the flow exactly in SQL and also return the correct solution.
 
 Please ask for permission if copying!
 
